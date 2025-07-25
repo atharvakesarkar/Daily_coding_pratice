@@ -1,0 +1,2 @@
+# javascript
+daily praticing javascript
